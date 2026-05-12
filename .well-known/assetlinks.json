@@ -3,6 +3,6 @@
       "target": {
         "namespace": "android_app",
         "package_name": "io.github.arifulexs.twa",
-        "sha256_cert_fingerprints": ["CF:54:8E:12:1F:C4:DF:FA:8E:5D:D0:D9:DF:16:64:C8:59:48:EF:FD:A4:DD:FE:D8:F5:89:D0:65:E0:63:D4:34"]
+        "sha256_cert_fingerprints": ["60:E2:4D:4C:C1:32:12:F4:14:FC:39:28:15:00:E9:F5:6C:70:8C:2E:AB:B5:B0:74:74:8B:DD:0E:A1:9B:03:B7"]
       }
     }]
